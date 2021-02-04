@@ -1,4 +1,5 @@
-html p{
+html {
+    scroll-behavior: smooth;
    
 
 }
@@ -44,9 +45,9 @@ html p{
 }
 
 .baner {
-    background: url(./download.jpg) no-repeat top center #000;
-    background-size: cover;
-    padding: 400px 0;
+	background: url(./download.jpg) no-repeat top center #000;
+	background-size: cover;
+	padding: 161px 0;
 }
 .baner h1{
     font-size: 82px;
